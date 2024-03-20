@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <div className={styles.container}>
             <p className={styles.content}>
-                <span style={{ color: 'red' }}>❤</span> Miraz
+                <span style={{ color: 'red' }}>❤</span> Hannes
             </p>
         </div>
     );
